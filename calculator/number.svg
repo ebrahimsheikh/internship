@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g fill="#333" transform="translate(-16.000000, -487.000000) translate(16.000000, 487.000000)">
+                    <rect width="75" height="75" rx="37.5"/>
+                </g>
+                <text fill="#FFF" font-family="SFUIDisplay-Regular, SF UI Display" font-size="36" transform="translate(-16.000000, -487.000000) translate(16.000000, 487.000000) translate(30.000000, 16.000000)">
+                    <tspan x=".02" y="34">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
